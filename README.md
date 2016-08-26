@@ -20,4 +20,4 @@ Put any image files `.{png,jpg,gif}` in the `_src/` directory and run
 gulp
 ```
 
-In the `dest/` directory you will see an image
+In the `dest/` directory you will see an sprite generated and a corresponding css file.
